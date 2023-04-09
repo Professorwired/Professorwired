@@ -1,3 +1,4 @@
+![logo](https://github.com/Professorwired/Professorwired/blob/main/2288690.jpg)
 <h1 align="center">Hi 👋, I'm AliHaier</h1>
 <h3 align="center">First, solve the problem. Then, write the code</h3>
 
